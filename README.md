@@ -1,2 +1,3 @@
 # my_config
-All of my personal configuration for the tools I use
+All of my personal configuration for the tools I use (git, vim, tmux)
+
